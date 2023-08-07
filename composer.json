@@ -1,7 +1,7 @@
 {
   "name": "moogento/phpqrcode",
   "description": "Customised PHPQRCode forked from aferrandini/PHPQRCode",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "keywords": ["php", "qrcode", "barcode"],
   "homepage": "https://github.com/moogento/phpqrcode",
   "type": "library",
